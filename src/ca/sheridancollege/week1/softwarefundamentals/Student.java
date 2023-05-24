@@ -10,7 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student has: a name (first an last name)
  * each student can: say their name (getName)
  * 
- * @author may May 7, 2018
+ * @author may swe May 7, 2018
  */
 public class Student 
 {
